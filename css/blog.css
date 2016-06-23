@@ -11,4 +11,5 @@ h2 {
 #second:hover {
   color: navy;
   font-style: italic;
+  visibility: collapse;
 }
