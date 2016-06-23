@@ -2,6 +2,10 @@ body {
   background-color: #f7f7f7;
 }
 
+dt {
+  font: bold;
+}
+
 /* 
 Add CSS rules so that:
 (a) all the text on the page has a font-family of 'Helvetica'.
